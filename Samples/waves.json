@@ -1,0 +1,10 @@
+[
+  {
+    "MaxNPC": 15,
+    "WaveInfo": {
+      "TotalCount": 10,
+      "DefaultNPC": "Newborn_Bot",
+      "NPCs": []
+    }
+  }
+]

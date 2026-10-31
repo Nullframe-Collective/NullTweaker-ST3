@@ -1,0 +1,12 @@
+{
+  "MapName": "My Map",
+  "Id": "author:my-map",
+  "Version": "1.0.0",
+  "UseDayAndNight": false,
+  "IsOutside": false,
+  "Size": 0,
+  "CollectMonster": "Newborn_Bot",
+  "VersusMonster": "Newborn",
+  "SurvivalMonster": "Newborn_Bot",
+  "Dependencies": []
+}

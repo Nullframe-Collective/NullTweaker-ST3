@@ -1,0 +1,21 @@
+{
+  "Name": "MyMonster",
+  "Id": "author:my-monster",
+  "Version": "1.0.0",
+  "UseDummyModel": true,
+  "ModelScale": 1,
+  "ModelColor": "#A06EFF",
+  "Bot": {
+    "DummyNPC": "SUR/Newborn_Bot",
+    "Health": 350,
+    "Damage": 12,
+    "Speed": 2,
+    "AttackRange": 2,
+    "AttackSpeed": 1,
+    "UseRagdoll": true,
+    "UseRage": false,
+    "RageRequiredHp": 100,
+    "RageAttackTime": 0.5,
+    "RageRunSpeed": 5
+  }
+}

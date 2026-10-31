@@ -1,0 +1,50 @@
+{
+  "Name": "SuperPumpkin",
+  "Price": 0,
+  "IsAvailable": true,
+  "Author": "MasterHell",
+  "MainMenuTransform": {
+    "Position": [
+      7.902,
+      -0.2879,
+      -98.0819
+    ],
+    "LocalPosition": [
+      0.0001,
+      -55.3,
+      -4.4003
+    ],
+    "Rotation": [
+      270,
+      -0,
+      0
+    ],
+    "Scale": [
+      107.9998,
+      140.0002,
+      150.0004
+    ]
+  },
+  "InGameTransform": {
+    "Position": [
+      -0.0208,
+      1.6721,
+      0.3494
+    ],
+    "LocalPosition": [
+      -0.0046,
+      -55.3019,
+      -4.3942
+    ],
+    "Rotation": [
+      270,
+      -0,
+      0
+    ],
+    "Scale": [
+      107.9998,
+      140.0002,
+      150.0004
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "Id": "trigger-1",
+    "Type": "Event",
+    "Scene": "",
+    "Object": "",
+    "Position": [
+      0,
+      0,
+      0
+    ],
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Size": [
+      1,
+      1,
+      1
+    ],
+    "Damage": 5,
+    "CoolDown": 1,
+    "Gravity": 4,
+    "MaxFallSpeed": 10,
+    "Blur": true,
+    "WaterColor": "#35D8FFFF",
+    "Priority": 0,
+    "AmbientColor": "#808080",
+    "Fog": true,
+    "FogColor": "#808080",
+    "FogMode": "ExponentialSquared",
+    "FogDensity": 0.01,
+    "FogStart": 0,
+    "FogEnd": 300,
+    "TransitionSpeed": 4
+  }
+]

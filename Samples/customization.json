@@ -1,0 +1,51 @@
+{
+  "Name": "MyCustomization",
+  "Id": "author:my-customization",
+  "Author": "",
+  "Price": 0,
+  "IsAvailable": true,
+  "MainMenuTransform": {
+    "Position": [
+      0,
+      0,
+      0
+    ],
+    "LocalPosition": [
+      0,
+      0,
+      0
+    ],
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  "InGameTransform": {
+    "Position": [
+      0,
+      0,
+      0
+    ],
+    "LocalPosition": [
+      0,
+      0,
+      0
+    ],
+    "Rotation": [
+      0,
+      0,
+      0
+    ],
+    "Scale": [
+      1,
+      1,
+      1
+    ]
+  }
+}
